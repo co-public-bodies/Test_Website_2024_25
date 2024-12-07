@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Test Website 2024/25",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About 2024/25",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Further Analysis.html",
+    "href": "Further Analysis.html",
+    "title": "Further Analysis",
+    "section": "",
+    "text": "Further analysis\n\nsuppressPackageStartupMessages({\n    library(plotly)\n    library(tidyverse)\n})\n\n\n# plotly plot with scatter of cars speed and dist\n\nplot_ly(cars, x = ~speed, y = ~dist, type = 'scatter', mode = 'markers')"
+  }
+]
